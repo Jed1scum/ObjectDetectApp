@@ -1,0 +1,6 @@
+.vs
+*.sln
+.DS_Store
+*.csproj
+bin/
+obj/
